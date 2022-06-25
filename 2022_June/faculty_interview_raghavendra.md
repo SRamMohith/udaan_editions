@@ -18,7 +18,7 @@ Given the online semesters which resulted in reduced student-faculty interaction
 
  <!-- `video: <remove the surrounding braces and insert youtube video link here>` -->
 
- ![img](./images/supporting/faculty_interview.png)
+ ![img](./images/faculty_interview.png)
 
 Throughout the course of the interview, students posed several questions spanning a wide variety of topics. As an opening question, Prof. Sridhar was asked to **“Describe himself in one line”**. His succinct reply to this question was that he is “enthusiastic and sometimes a little crazy towards solving problems”. Instinctively he was also asked **“Why did you choose to become a professor?”**. He said, “Let’s say, I produce N ideas each day. I can only solve a few ideas alone. I need an army of passionate people who have a ‘killer instinct’ which is possible with young people like students, so that they can work on these ideas to have a wider impact. This is the only profession where this can happen. Even if I do one problem each day, but these people that I work with become excellent problem solvers, then they in turn will solve N problems every day! Indirectly, the kind of impact you can create through this profession is much more massive!” As a follow-up, he was asked **what profession he would have pursued if he wasn’t a professor**. He said he probably would have pursued Indian Literature and storytelling as a researcher, as he finds that the imaginative fields have much to explore.
 
@@ -97,5 +97,5 @@ I think all of us should have empathy towards each other. I wish that students w
 > Debeshee Das
 > 
 > Initial Transcript summarized by -<br>
-> Anu Anand Annu <br>
-> Tejaswini Hotkar
+> W Pranathi <br>
+> Debeshee Das
